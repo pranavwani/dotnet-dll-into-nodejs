@@ -1,0 +1,11 @@
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.AssemblyInfoInputs.cache
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.AssemblyInfo.cs
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.csproj.CoreCompileInputs.cache
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/bin/Debug/net8.0/MyDotNetLibrary.deps.json
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/bin/Debug/net8.0/MyDotNetLibrary.dll
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/bin/Debug/net8.0/MyDotNetLibrary.pdb
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.dll
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/refint/MyDotNetLibrary.dll
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/MyDotNetLibrary.pdb
+/Users/pranavanilkumarwani/Documents/Projects/MyDotNetLibrary/obj/Debug/net8.0/ref/MyDotNetLibrary.dll
