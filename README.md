@@ -1,6 +1,10 @@
 # dotnet-dll-into-nodejs
 
-# Usage
+## Pre-requisuite
+
+1. Install donnet sdk v8 or anyone and try to set that into the `index.js`
+
+## Usage
 
 ### Step - 1 Install dependencies
 ```sh
