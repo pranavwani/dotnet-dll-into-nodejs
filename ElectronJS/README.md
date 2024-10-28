@@ -95,7 +95,3 @@ const result = await ipcRenderer.invoke('dotnet-add', a, b);
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to replace `<repository_url>` with your repository's URL, if applicable! Let me know if you need further customization for the README.
